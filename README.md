@@ -1,16 +1,9 @@
-# adiaha_tv
+# Quick start template
 
-A new Flutter application.
+My goto template for starting flutter projects with provider and get
 
-## Getting Started
+###How to use
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Clone the repo
+- To rename the package name to your desired name run `flutter create --org com.yourdomain appname`
+- change the assets if you want and run the app. 😝
